@@ -3,7 +3,7 @@
 /**
  * Devuelve cualquier cosa porque esta función es de pega
  *
- * @author Emilio Soler
+ * @author Antonio Jesus Rodriguez Bellido
  * @version 1.2
  * @param string $param1 la cadena que queramos
  * @return string $param2 Devolveremos una cadena con un añadido
